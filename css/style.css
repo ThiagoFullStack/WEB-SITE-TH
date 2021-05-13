@@ -787,7 +787,7 @@ section div{
 
 .formContainer{
   max-width: 117px;
-  height: 290px;
+  height: 320px;
   background-color: #ffffffbb;
   padding: 35px;
   padding-top: 20px;
@@ -797,7 +797,7 @@ section div{
   position: relative;
 }
 .formContainer h2{
-  font-size: 18px;
+  font-size: 20px;
   color: #e6f564;
   margin-left: -10px;
   margin-top: 15px;
