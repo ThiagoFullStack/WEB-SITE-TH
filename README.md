@@ -1,7 +1,7 @@
 # ✅ FileDevelop.com
 
 
-![Welcome](/ap-explosão-de-sabores.png?raw=true).
+![Welcome](/card-logo.jpeg?raw=true)
 
 📋 This project is the source code made by Visual Studio code where I commit to Github to upload to Vercel, available at:  - [vercel.com (https://vercel.com/)] Access the site ➡ ( https://restaurant-ap.vercel.app/ )
 
@@ -43,6 +43,6 @@ This project is licensed under the MIT license - veja [LICENSE.md](LICENSE.md) f
 
 ## 👨‍🎓 Acknowledgments 🎉
 
-* This project was built during the classes of the Fullstack Master of [Deus].
+* This project was made for my website thanks to [Deus].
 
 
