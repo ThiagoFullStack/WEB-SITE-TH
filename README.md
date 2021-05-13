@@ -25,9 +25,7 @@ You need to use Front-end.
 We created the layout using VS Code. You can find the file [aqui](https://code.visualstudio.com/).
 
 
-## 📝 Outline:
 
-![Welcome](/Principal.jpg?raw=true)  ![Welcome](/Register.jpg?raw=true) ![Welcome](/Data.jpg?raw=true)
 
 
 ## 📢 Built with:
