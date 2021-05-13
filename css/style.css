@@ -797,15 +797,15 @@ section div{
   position: relative;
 }
 .formContainer h2{
-  font-size: 22px;
+  font-size: 18px;
   color: #e6f564;
-  margin-left: -20px;
-  margin-top: -10px;
+  margin-left: -10px;
+  margin-top: 15px;
 }
 .formContainer p{
   font-size: 10px;
   color: #000000bb;
-  margin-top: -40px;
+  margin-top: -50px;
 }
 #name ,#whatsapp,#email,#bt{
   width: 115px;
@@ -813,6 +813,7 @@ section div{
   margin: 3px;
   font-size: 6px;
   padding: 10px;
+  margin-top: -8px;
 }
 
 
